@@ -1,0 +1,1 @@
+This repository was created to learn and practice the basics of Git using Visual Studio Code (VSC) and GitHub, completed as part of the Udemy course 100 Days of Code – 2025 Web Development Bootcamp by Maximilian Schwarzmüller (AWS Certified, Professional Web Developer & Instructor) and Manuel Lorenz (Professional Business Analyst & Instructor).
